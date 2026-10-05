@@ -1,27 +1,6 @@
 Save this as **README.md** inside your project folder:
 
----
-
-# **VOIDX - OSINT & Security Scanner** 🔥  
-
-
-
-VOIDX is a powerful **OSINT (Open-Source Intelligence)** and **Security Scanner** tool designed for penetration testers, ethical hackers, and cybersecurity researchers. It can gather information about domains, IP addresses, websites, and open ports, along with potential vulnerabilities.  
-
----
-
-## 🚀 **Features**
-✅ WHOIS Lookup (Domain Information)  
-✅ DNS Lookup (IP Address Resolution)  
-✅ Geolocation Tracking (Find IP Location)  
-✅ Device Information Gathering  
-✅ HTTP Headers Analysis  
-✅ Port Scanning (Detect Open & Closed Ports)  
-✅ Real IP Detection Behind Cloudflare  
-✅ Website History (Archived Records)  
-✅ Security Incidents (Check for Hacked Sites)  
-✅ Attack Predictions Based on Open Ports  
-
+VOIDX maps a web target and reports only what it can prove. DNS, TLS, headers, technologies, crawl, forms, cookies, exposed files, JavaScript and APIs are all collected, and every finding ships with its evidence, a confidence level, the detection method and the affected URLs.
 ---
 
 ## 📌 **Installation & Execution**
