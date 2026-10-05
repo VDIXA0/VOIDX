@@ -87,8 +87,6 @@ python3 voidxy.py
 
 ---
 
-## 🤖 **Upcoming Features**
-🔹 Social Engineering Attacks  
 🔹 Brute Force Techniques  
 🔹 More OSINT API Integrations  
 
